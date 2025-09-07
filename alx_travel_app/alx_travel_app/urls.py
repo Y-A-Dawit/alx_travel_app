@@ -24,7 +24,7 @@ schema_view = get_schema_view(
    openapi.Info(
       title="ALX Travel API",
       default_version='v1',
-      description="Travel Listing API",
+      description="API DOCUMENTATION",
    ),
    public=True,
    permission_classes=[permissions.AllowAny],
